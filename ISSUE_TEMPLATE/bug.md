@@ -1,4 +1,3 @@
-
 ---
 name: "bug_report"
 about: "발생한 오류 및 버그 보고"
