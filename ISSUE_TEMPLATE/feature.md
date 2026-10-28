@@ -1,5 +1,5 @@
 ---
-name: "feature request"
+name: "feature_request"
 about: "새로운 기능 개발 및 기존 기능 개선"
 title: "[Feat] "
 labels: ""
